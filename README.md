@@ -11,6 +11,7 @@ The basic capabilities of this system include:
 Notable drawbacks of this system include:  
   -Speed at which the drone can move to track high-speed targets 
 
---- THIS REPOSITORY CONTAINS THE FOLLOWING-- 
-Readme.md- You're looking at it. 
+--- THIS REPOSITORY CONTAINS THE FOLLOWING--
+
+Readme.md- You're looking at it.
 Final report 403- The report from ECEN 403 describing progress on whole system + subsystems.
